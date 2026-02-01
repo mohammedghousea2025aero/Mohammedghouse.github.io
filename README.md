@@ -2,7 +2,7 @@ index.html
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Website</title>
+    <title>Mohammedworks</title>
 </head>
 <body>
     <h1>Hello, I'm Mohammed Ghouse</h1>
